@@ -1,12 +1,12 @@
 {
-    "name": "Green ",
-    "short_name": "Green ",
-    "description": "Hi ",
+    "name": "Greenlife Africa ",
+    "short_name": "Greenlife ",
+    "description": "African creativity, culture & live experiences ",
     "start_url": "/green-/",
     "scope": "/green-/",
     "display": "standalone",
     "background_color": "#000000",
-    "theme_color": "#ffffff",
+    "theme_color": "#000000",
     "icons": [
         {
             "src": "/green-/icon-192x192.png",
