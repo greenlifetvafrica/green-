@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Green -pwa-cache-v2';
+const CACHE_NAME = 'Green -pwa-cache-v3';
 const urlsToCache = [
     '/green-/',
     '/green-/index.html',
